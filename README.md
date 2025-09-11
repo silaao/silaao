@@ -14,7 +14,7 @@ Aqui você vai encontrar projetos e estudos nas áreas de **Java** e **Python**,
 ---
 
 ## 🔧 Tecnologias & Linguagens
-- **Java** ☕ → aplicações backend e Android  
+- **Java/Kotlin** ☕ → aplicações backend e Android  
 - **Python** 🐍 → automação, scripts e análise de dados  
 - **Git/GitHub** → versionamento de código  
 - **SQL** → manipulação e consultas em banco de dados  
