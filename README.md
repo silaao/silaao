@@ -34,4 +34,4 @@ Aqui você vai encontrar projetos e estudos nas áreas de **Java** e **Python**,
 
 ---
 
-✨ "Sempre em busca de evoluir e criar soluções que fazem a diferença."
+✨ "Sempre curioso em busca de evoluir"
