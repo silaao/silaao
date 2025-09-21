@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu GitHub! 🚀  
 Sou apaixonado por **tecnologia, desenvolvimento de software e aprendizado contínuo**.  
-Aqui você vai encontrar projetos e estudos nas áreas de **Java** e **Python**, além de explorações em outras linguagens e ferramentas.  
+Aqui você vai encontrar projetos e estudos nas áreas de **Java/Kotlin** e **Python**, além de explorações em outras linguagens e ferramentas.  
 
 ---
 
